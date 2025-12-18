@@ -1,0 +1,6 @@
+pandas
+yfinance
+fredapi
+gspread
+oauth2client
+line-bot-sdk
